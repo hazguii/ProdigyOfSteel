@@ -1,0 +1,26 @@
+# Unreal Engine
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vscode/
+.idea/
+*.sln
+*.user
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+.vs/
+.idea/
+*.sln
+*.user
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+# OS Specific
+.DS_Store
+Thumbs.db
